@@ -1,16 +1,7 @@
 # l5_cbt_app
 
-A new Flutter project.
+L5 cbt 앱
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+l5_cbt_exporter를 사용하여 추출된 이미지를 images 폴더에 넣어야 정상 작동됩니다.
